@@ -1,7 +1,9 @@
 
 # NewsMonk
 
-News Monk is a simple news site built in React, allowing users to read the latest news and filter them by various categories. It utilizes the [newsapi.org](https://newsapi.org/) API for fetching news data.
+Welcome to the NewsMonk GitHub repository!
+
+NewsMonk is a simple news site built in React, allowing users to read the latest news and filter them by various categories. It utilizes the [newsapi.org](https://newsapi.org/) API for fetching news data.
 
 ![](demo.gif)
 
@@ -20,7 +22,7 @@ News Monk is a simple news site built in React, allowing users to read the lates
 ```bash
   npm install
 ```
-## Usage/Examples
+## Usage
 
 - Create an account on [newsapi.org](https://newsapi.org/) and Generate the API Key
 - Create ```.env.local``` file under newsmonk directory
